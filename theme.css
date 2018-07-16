@@ -75,6 +75,7 @@ html {
 }
 
 #loading .logo,
+.logo-container,
 .window .logo {
 	display: none;
 }
