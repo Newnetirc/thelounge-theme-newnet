@@ -1,9 +1,37 @@
 /*!
  * Solarized
  *
- * URL: https://github.com/thelounge/lounge-theme-solarized
+ * URL: https://github.com/benharri/lounge-theme-solarized
  * License: MIT
+ * forked by benharri
  */
+
+/* my custom stuff */
+@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Mono:400,400i');
+
+* {
+	font-family: 'IBM Plex Mono', monospace;
+}
+
+#user-specified-css-input {
+	height: 500px;
+}
+
+#sidebar .networks {
+	padding: 5px 0;
+}
+
+#sidebar .network {
+	margin-bottom: 10px;
+}
+
+#sidebar .chan {
+	padding: 3px 10px;
+}
+
+::-webkit-scrollbar {
+	display: none;
+}
 
 /* Samsung Internet and Microsoft Edge (yes, both of them use -webkit- prefix) */
 ::-webkit-input-placeholder {
@@ -54,10 +82,6 @@ html {
 #loading .logo-inverted,
 .window .logo-inverted {
 	display: inline-block;
-}
-
-#sidebar .logo-container {
-	padding-top: 5px;
 }
 
 #sidebar .logo-inverted {
@@ -154,6 +178,16 @@ body {
 	color: #93c7eb;
 }
 
+#sidebar .chan.query::before,
+#sidebar .chan.channel::before {
+	content: "";
+}
+
+#sidebar .network,
+#sidebar .network-placeholder {
+	margin-bottom: 1em;
+}
+
 /* Hide close button on channels, it is not used that frequently */
 .channel-list-item[data-type="channel"] .close-tooltip {
 	display: none;
@@ -189,6 +223,18 @@ body {
 #chat .content,
 #chat .userlist {
 	border-color: var(--background-light-color);
+}
+
+#chat .user-mode::before {
+	content: "" !important;
+	border: none;
+	line-height: inherit;
+	padding: 0;
+	margin-bottom: 0;
+}
+
+#form {
+	border: 1px solid var(--background-light-color);
 }
 
 #chat .userlist .search,

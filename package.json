@@ -1,32 +1,32 @@
 {
-  "name": "thelounge-theme-solarized",
+  "name": "thelounge-theme-solarized-fork-monospace",
   "version": "1.1.2",
-  "description": "A simple theme with Solarized colours",
+  "description": "A simple theme with Solarized colors",
   "main": "package.json",
   "thelounge": {
-    "name": "Solarized",
+    "name": "Solarized-monospace",
     "type": "theme",
-    "css": "theme.css",
-    "themeColor": "#002b36"
+    "css": "theme.css"
   },
   "license": "MIT",
-  "homepage": "https://github.com/thelounge/thelounge-theme-solarized",
+  "homepage": "https://github.com/benharri-forks/thelounge-theme-solarized",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thelounge/thelounge-theme-solarized.git"
+    "url": "git+https://github.com/benharri-forks/thelounge-theme-solarized.git"
   },
   "keywords": [
     "thelounge",
     "thelounge-theme"
   ],
   "bugs": {
-    "url": "https://github.com/thelounge/thelounge-theme-solarized/issues"
+    "url": "https://github.com/benharri-forks/thelounge-theme-solarized/issues"
   },
   "devDependencies": {
-    "stylelint": "^10.1.0",
-    "stylelint-config-standard": "^18.3.0"
+    "stylelint": "^9.2.0",
+    "stylelint-config-standard": "^18.2.0"
   },
   "scripts": {
     "test": "stylelint theme.css"
   }
 }
+

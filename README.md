@@ -6,6 +6,15 @@
 	An opinionated simple theme with Solarized colours
 </h3>
 
+benharri's fork with some small tweaks that i've collected
+
+some of the tweaks include:
+
+* compact chanlist
+* compact userlist (hides roles/modes)
+* [ibm plex mono](https://github.com/ibm/plex)
+
+
 <p align="center">
 	<a href="https://yarn.pm/thelounge-theme-solarized"><img
 		alt="npm version"
@@ -25,5 +34,5 @@
 Install this theme with:
 
 ```sh
-thelounge install thelounge-theme-solarized
+thelounge install thelounge-theme-solarized-fork-monospace
 ```
