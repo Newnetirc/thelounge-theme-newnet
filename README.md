@@ -1,12 +1,12 @@
 <h1 align="center">
-	Solarized theme for The Lounge
+	Newnet theme for The Lounge
 </h1>
 
 <h3 align="center">
-	An opinionated simple theme with Solarized colours
+	An simple theme with Newnet website CSS
 </h3>
 
-benharri's fork with some small tweaks that i've collected
+deepend's fork with some small tweaks forked from benharris Solarized theme. 
 
 some of the tweaks include:
 
@@ -16,16 +16,16 @@ some of the tweaks include:
 
 
 <p align="center">
-	<a href="https://yarn.pm/thelounge-theme-solarized-fork-monospace"><img
+	<a href="https://yarn.pm/thelounge-theme-newnet-fork"><img
 		alt="npm version"
-		src="https://img.shields.io/npm/v/thelounge-theme-solarized-fork-monospace.svg?style=flat-square"></a>
-	<a href="https://npm-stat.com/charts.html?package=thelounge-theme-solarized-fork-monospace&from=2016-02-12"><img
+		src="https://img.shields.io/npm/v/thelounge-theme-newnet.svg?style=flat-square"></a>
+	<a href="https://npm-stat.com/charts.html?package=thelounge-theme-newnet&from=2016-02-12"><img
 		alt="Total downloads on npm"
-		src="https://img.shields.io/npm/dt/thelounge-theme-solarized-fork-monospace.svg?colorB=007dc7&style=flat-square"></a>
+		src="https://img.shields.io/npm/dt/thelounge-theme-newnet.svg?colorB=007dc7&style=flat-square"></a>
 </p>
 
 <p align="center">
-	<img src="screenshot.png" alt="Screenshot of the Solarized theme for The Lounge" width="550">
+	<img src="screenshot.png" alt="Screenshot of the Newnet theme for The Lounge" width="550">
 </p>
 
 
@@ -34,5 +34,5 @@ some of the tweaks include:
 Install this theme with:
 
 ```sh
-thelounge install thelounge-theme-solarized-fork-monospace
+thelounge install thelounge-theme-newnet
 ```
