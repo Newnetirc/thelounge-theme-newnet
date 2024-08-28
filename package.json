@@ -1,25 +1,25 @@
 {
-  "name": "thelounge-theme-solarized-fork-monospace",
+  "name": "thelounge-theme-newnet-fork",
   "version": "1.0.9",
-  "description": "A simple theme with Solarized colors",
+  "description": "A simple theme with Newnet Website style",
   "main": "package.json",
   "thelounge": {
-    "name": "Solarized-monospace",
+    "name": "Newnet",
     "type": "theme",
     "css": "theme.css"
   },
   "license": "MIT",
-  "homepage": "https://github.com/benharri-forks/thelounge-theme-solarized",
+  "homepage": "https://github.com/newnetirc/thelounge-theme-newnet",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/benharri-forks/thelounge-theme-solarized.git"
+    "url": "git+https://github.com/newnetirc/thelounge-theme-newnet.git"
   },
   "keywords": [
     "thelounge",
     "thelounge-theme"
   ],
   "bugs": {
-    "url": "https://github.com/benharri-forks/thelounge-theme-solarized/issues"
+    "url": "https://github.com/newnetirc/thelounge-theme-newnet/issues"
   },
   "devDependencies": {
     "stylelint": "^9.2.0",
