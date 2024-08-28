@@ -16,7 +16,7 @@ some of the tweaks include:
 
 
 <p align="center">
-	<a href="https://yarn.pm/thelounge-theme-newnet-fork"><img
+	<a href="https://yarn.pm/thelounge-theme-newnet"><img
 		alt="npm version"
 		src="https://img.shields.io/npm/v/thelounge-theme-newnet.svg?style=flat-square"></a>
 	<a href="https://npm-stat.com/charts.html?package=thelounge-theme-newnet&from=2016-02-12"><img
