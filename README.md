@@ -25,7 +25,7 @@ some of the tweaks include:
 </p>
 
 <p align="center">
-	<img src="screenshot.png" alt="Screenshot of the Newnet theme for The Lounge" width="550">
+	<img src="" alt="Screenshot of the Newnet theme for The Lounge" width="550">
 </p>
 
 
