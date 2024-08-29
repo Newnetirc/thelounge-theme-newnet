@@ -11,12 +11,13 @@
 
 * {
     font-family: 'Martian Mono', monospace;
+    font-size: 16px; /* Match base font size with Newnet site */
 }
 
 /* General Colors and Backgrounds */
 :root {
     --body-bg-color: #121212; /* Website background color */
-    --window-bg-color: #1b1b1b; /* Similar to section backgrounds on the website */
+    --window-bg-color: #1b1b1b; /* Section backgrounds on the website */
     --body-color: #f0f0f0; /* General text color */
     --body-color-muted: #666666; /* Muted text, for less emphasis */
     --link-color: #00ffcc; /* Neon color for links */
@@ -42,7 +43,7 @@
 html {
     scrollbar-color: #00ffcc #1b1b1b;
     scrollbar-width: thin;
-    font-size: 16px; /* Increased font size for better readability */
+    font-size: 16px; /* Match base font size with Newnet site */
 }
 
 /* Hide Logos */
@@ -68,7 +69,7 @@ kbd {
     border-color: #00ffcc;
     box-shadow: none;
     text-shadow: none;
-    font-size: 1rem; /* Increased font size */
+    font-size: 1rem; /* Match font size with general text */
 }
 
 #context-menu,
@@ -161,7 +162,7 @@ kbd {
 body {
     background-color: #121212;
     color: #f0f0f0;
-    font-size: 1rem; /* Increased font size */
+    font-size: 1rem; /* Match font size with Newnet site */
 }
 
 #chat .self {
