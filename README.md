@@ -12,7 +12,7 @@ some of the tweaks include:
 
 * compact chanlist
 * compact userlist (hides roles/modes)
-* [ibm plex mono](https://github.com/ibm/plex)
+* Martian Mono font.
 
 
 <p align="center">
