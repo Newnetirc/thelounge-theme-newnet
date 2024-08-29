@@ -147,6 +147,23 @@ kbd {
     box-shadow: 0px 0px 20px #00ffcc, 0px 0px 30px #00ffcc, 0px 0px 40px #00ffcc;
 }
 
+/* General button styles */
+.btn-primary {
+    background-color: #00ffcc;
+    color: #121212;
+    border: 2px solid #00ffcc;
+    text-transform: uppercase;
+    transition: all 0.3s ease;
+    padding: 10px 30px;
+    font-size: 1rem; /* Match font size with the rest of the site */
+}
+
+.btn-primary:hover {
+    background-color: #00ffcc;
+    color: #121212; /* Ensure the text color turns black on hover */
+    box-shadow: 0px 0px 20px #00ffcc, 0px 0px 30px #00ffcc, 0px 0px 40px #00ffcc;
+}
+
 /* Footer */
 #footer {
     height: 43px;
