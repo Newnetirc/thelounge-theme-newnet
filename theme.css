@@ -149,8 +149,8 @@ kbd {
 
 /* General button styles */
 .btn {
-    background-color: #00ffcc;
-    color: #121212;
+    background-color: #121212;
+    color: #00ffcc;
     border: 2px solid #00ffcc;
     text-transform: uppercase;
     transition: all 0.3s ease;
