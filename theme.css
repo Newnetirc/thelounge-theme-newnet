@@ -21,7 +21,6 @@
     --body-color: #f0f0f0; /* General text color */
     --body-color-muted: #666666; /* Muted text, for less emphasis */
     --link-color: #00ffcc; /* Neon color for links */
-    --button-color: #00ffcc;
     --unread-marker-color: #00ffcc; /* Neon color */
     --date-marker-color: #00ffcc; /* Use neon color for consistency */
     --highlight-bg-color: #1b1b1b; /* Slightly darker than the body background */
@@ -149,7 +148,7 @@ kbd {
 
 /* General button styles */
 .btn {
-    background-color: #121212;
+    background-color: #1b1b1b;
     color: #00ffcc;
     border: 2px solid #00ffcc;
     text-transform: uppercase;
